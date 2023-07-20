@@ -7,7 +7,6 @@ variable "env" {
   description = "Environment where this module is invoked."
   type        = string
 }
-
 variable "team" {
   description = "Team responsible for the bucket."
   type        = string
